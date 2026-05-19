@@ -156,7 +156,6 @@ else if(FPB(A,C) == B){
 
 Diketahui, bahwa ketika hasil `FPB(A,C)` sama dengan `B` maka, *heap memory* akan bertambah 1.
 
-
 ```cpp
 else if(FPB(A,C) == B){
     return 1 + PUTIH(A,B,C-1);
@@ -181,7 +180,7 @@ $$\therefore{\text{NUSANTARA}(24,3)=2}$$
 
 ### Solusi (3/3)
 
-Maka, dengan penjelasan [solusi (2/3)](#solusi-23) 
+Maka, dengan penjelasan [solusi (2/3)](#solusi-23)
 
 $$2025 = 5^2 \times 3^4$$
 $$135 = 5 \times 3^3 $$
