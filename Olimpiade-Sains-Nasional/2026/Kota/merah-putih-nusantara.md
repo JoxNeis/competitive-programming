@@ -103,9 +103,13 @@ $$24 = 2^3 \times 3 $$
 Kemudian, observasi pasangan argumennya
 
 $4 = 2^2$, maka hasil $\text{FPB}(24,4)=4$,
+
 $9 = 3^2$, maka hasil $\text{FPB}(24,9)=3$,
+
 $17 = 17$, maka hasil $\text{FPB}(24,17)=1$,
+
 $18 = 2 \times 3 ^2$, maka hasil $\text{FPB}(24,18)=6$,
+
 $34 = 17 \times 2$, maka hasil $\text{FPB}(24,34)=2$.
 
 Maka kembalian terbesar:
@@ -116,7 +120,7 @@ Maka kembalian terbesar:
 - [X] `MERAH(24,18)`
 - [ ] `MERAH(24,34)`
 
-## Solusi (2/3)
+### Solusi (2/3)
 
 Sekarang kita akan mengobservasi fungsi `PUTIH`
 
@@ -174,7 +178,8 @@ Maka, dari observasi tersebut dapat dipastikan fungsi putih adalah fungsi untuk 
 Maka, karena $0 \rightarrow 12$ hanya memiliki 2 hasil $\text{FPB}$ yang bernilai 3. Maka kembalian akan menghasilkan $2$.
 
 $$\therefore{\text{NUSANTARA}(24,3)=2}$$
-## Solusi (3/3)
+
+### Solusi (3/3)
 
 Maka, dengan penjelasan [solusi (2/3)](#solusi-23) 
 
