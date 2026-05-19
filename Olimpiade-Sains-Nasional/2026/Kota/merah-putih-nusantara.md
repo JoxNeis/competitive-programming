@@ -188,7 +188,7 @@ $$135 = 5 \times 3^3 $$
 
 Diperlukan untuk mencari kelipatan dari 135 yang memenuhi syarat tersebut. Maka, bisa dilakukan
 
-$\text{FPB}(2025,135k)$, dimana $1 \geq k \leq \frac{2025}{135}$, menghasilkan $1 \geq k \leq 15$.
+$\text{FPB}(2025,135k)$, dimana $1 \leq k \leq \frac{2025}{135}$, menghasilkan $1 \geq k \leq 15$.
 
 Maka, dapat mencari angka prima dan kelipatannya selain 3 dan 5 dari $1\rightarrow15$, termasuk 1.
 
