@@ -6,5 +6,5 @@ My competitive programming journal
 
 ### Olimpiade Sains Nasional - Informatika (Indonesia)
 
-- [2026](Olimpiade-Sains-Nasional/2026/kota.md)
+- [2026](Olimpiade-Sains-Nasional/2026/OSN2026.md)
  
