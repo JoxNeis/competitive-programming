@@ -1,4 +1,6 @@
 # LeetCode
 
-- [01. TwoSum](Solution/01_TwoSum.md)
-- [02. AddTwoNumbers](Solution/02_AddTwoNumbers.md)
+- [01. TwoSum](Solution/0001.md)
+- [02. AddTwoNumbers](Solution/0002.md)
+- [3. Longest Substring Without Repeating Characters](Solution/0003.md)
+- [4. Median of Two Sorted Arrays](Solution/0004.md)
